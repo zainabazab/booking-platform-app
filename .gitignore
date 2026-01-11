@@ -1,0 +1,13 @@
+# Dependency Directories
+node_modules
+**/node_modules
+*.log
+
+# Build/Dist Directories
+dist
+build
+/booking-platform-frontend/dist
+
+# Environment and Config Files
+.env
+.DS_Store
