@@ -11,7 +11,7 @@ A full-stack application enabling users to register, view available services, an
 
 ## ⚙️ How to Run Locally
 
-### 1. Backend Setup
+## Backend Setup
 1. Navigate to the `booking-platform-backend` directory.
 2. Install dependencies: `npm install`
 3. Create a `.env` file and populate it:
